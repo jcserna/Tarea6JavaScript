@@ -1,8 +1,7 @@
 # TAREA #23
 
 ## PARTICIPANTES
-1. Jackson Florez ................
-2. Juan Perez ................
+1. Juan Camilo Serna R.
 
 ## Ejercicio #1
 Escribir un programa.....
