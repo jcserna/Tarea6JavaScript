@@ -229,7 +229,6 @@ else{
 */
 
 //Ejercicio 19
-/*
 var letra = prompt("Ingrese la letra");
 if(letra.length>1){
     console.log("No se puede procesar el dato"); 
@@ -262,7 +261,7 @@ switch (letra) {
         alert("La letra no es vocal"); 
   }
 }
-*/
+
 
 //Ejercicio 20
 /*

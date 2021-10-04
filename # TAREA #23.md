@@ -1,4 +1,4 @@
-# TAREA #23
+# TAREA #6 JavaScript
 
 ## PARTICIPANTES
 1. Juan Camilo Serna R.
