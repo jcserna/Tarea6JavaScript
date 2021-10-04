@@ -10,6 +10,7 @@ Escribir un programa.....
 var nombre = prompt("ingresa nombre");
 console.log("ahora estas en la matrix "+nombre);
 ```
+![I1](https://github.com/jcserna/Tarea6JavaScript/blob/main/images/ejercicio1.png)
 
 ## Ejercicio #2
 Escribir un programa.....
