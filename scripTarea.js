@@ -1,6 +1,8 @@
 //Ejercicio 1
-//var nombre = prompt("ingresa nombre");
-//console.log("ahora estas en la matrix "+nombre);
+/*
+var nombre = prompt("ingresa nombre");
+Jconsole.log("ahora estas en la matrix "+nombre);
+*/
 
 //Ejercicio 2
 /*
@@ -73,7 +75,7 @@ var texto = prompt("Ingrese un texto");
 console.log(`El primer carácter del texto es ${texto.slice(0,1)}`); 
 alert(`El primer carácter del texto es ${texto.slice(0,1)}`);
 var num = texto.length;
-var indice = prompt(`Ingrese un número entre 0 y ${num-1}`);
+var indice = Number(prompt(`Ingrese un número entre 0 y ${num-1}`));
 console.log(`El carácter ${indice} del texto es ${texto.slice(indice,indice+1)}`); 
 alert(`El carácter ${indice} del texto es ${texto.slice(indice,indice+1)}`);
 */
