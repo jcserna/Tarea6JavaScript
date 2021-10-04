@@ -22,6 +22,8 @@ var resultado = num1 + num2;
 console.log("El resultado es: "+resultado); 
 alert("El resultado es: "+resultado);
 ```
+![I2](https://github.com/jcserna/Tarea6JavaScript/blob/main/images/ejercicio2.png)
+
 
 ## Ejercicio #3
 Escribir un programa.....
@@ -36,6 +38,7 @@ var num3 = Number(prompt("Ingrese el tercer número"));
 console.log("El resultado de la multiplicación es: "+ (suma*num3)); 
 alert("El resultado de la multiplicación es: "+ (suma*num3));
 ```
+![I3](https://github.com/jcserna/Tarea6JavaScript/blob/main/images/ejercicio3.png)
 
 ## Ejercicio #4
 Escribir un programa.....
@@ -47,6 +50,8 @@ var resultado = num1/num2;
 console.log("El consumo por kilómetro es: "+ resultado); 
 alert("El consumo por kilómetro es: "+ resultado);
 ```
+![I4](https://github.com/jcserna/Tarea6JavaScript/blob/main/images/ejercicio4.png)
+
 
 ## Ejercicio #5
 Escribir un programa.....
@@ -57,6 +62,8 @@ var celsius =(5/9)*(far-32);
 console.log("La temperatura en Celsius es: "+ celsius); 
 alert("La temperatura en Celsius es: "+ celsius);
 ```
+![I5](https://github.com/jcserna/Tarea6JavaScript/blob/main/images/ejercicio5.png)
+
 
 ## Ejercicio #6
 Escribir un programa.....
@@ -69,6 +76,8 @@ var prom = (num1 + num2 +num3)/3;
 console.log("El promedio es: "+ prom); 
 alert("El promedio es: "+ prom);
 ```
+![I6](https://github.com/jcserna/Tarea6JavaScript/blob/main/images/ejercicio6.png)
+
 ## Ejercicio #7
 Escribir un programa.....
 
@@ -78,6 +87,8 @@ var resultado = num1-(num1*0.15);
 console.log("Descontando el 15% es: "+resultado); 
 alert("Descontando el 15% es: "+resultado);
 ```
+![I7](https://github.com/jcserna/Tarea6JavaScript/blob/main/images/ejercicio7.png)
+
 ## Ejercicio #8
 Escribir un programa.....
 
@@ -88,6 +99,7 @@ var resultado =  `${palabra1} ${palabra2}`;
 console.log(resultado); 
 alert(resultado);
 ```
+![I8](https://github.com/jcserna/Tarea6JavaScript/blob/main/images/ejercicio8.png)
 
 ## Ejercicio #9
 Escribir un programa.....
@@ -101,6 +113,7 @@ var indice = prompt(`Ingrese un número entre 0 y ${num-1}`);
 console.log(`El carácter ${indice} del texto es ${texto.slice(indice,indice+1)}`); 
 alert(`El carácter ${indice} del texto es ${texto.slice(indice,indice+1)}`);
 ```
+![I9](https://github.com/jcserna/Tarea6JavaScript/blob/main/images/ejercicio9.png)
 
 ## Ejercicio #10
 Escribir un programa.....
@@ -116,6 +129,8 @@ else {
     alert(false); 
 }
 ```
+![I10](https://github.com/jcserna/Tarea6JavaScript/blob/main/images/ejercicio10.png)
+
 ## Ejercicio #11
 Escribir un programa.....
 
@@ -127,6 +142,7 @@ var aux1 = parseInt(fecha/1000000);
 console.log(`${aux1}/${aux2}/${aux3}`); 
 alert(`${aux1}/${aux2}/${aux3}`); 
 ```
+![I11](https://github.com/jcserna/Tarea6JavaScript/blob/main/images/ejercicio11.png)
 
 ## Ejercicio #12
 Escribir un programa.....
@@ -149,6 +165,7 @@ else{
 }
 
 ```
+![I12](https://github.com/jcserna/Tarea6JavaScript/blob/main/images/ejercicio12.png)
 
 ## Ejercicio #13
 Escribir un programa.....
@@ -165,6 +182,7 @@ else{
     alert(false);
 }
 ```
+![I3](https://github.com/jcserna/Tarea6JavaScript/blob/main/images/ejercicio13.png)
 
 ## Ejercicio #14
 Escribir un programa.....
@@ -186,6 +204,7 @@ else{
     alert("El texto tiene número de caractéres impares");
 }
 ```
+![I14](https://github.com/jcserna/Tarea6JavaScript/blob/main/images/ejercicio14.png)
 
 ## Ejercicio #15
 Escribir un programa.....
@@ -207,6 +226,7 @@ else{
 }
 
 ```
+![I15](https://github.com/jcserna/Tarea6JavaScript/blob/main/images/ejercicio15.png)
 
 ## Ejercicio #16
 Escribir un programa.....
@@ -230,6 +250,7 @@ else{
 }
 
 ```
+![I16](https://github.com/jcserna/Tarea6JavaScript/blob/main/images/ejercicio16.png)
 
 ## Ejercicio #17
 Escribir un programa.....
@@ -247,6 +268,7 @@ else {
 }
 
 ```
+![I17](https://github.com/jcserna/Tarea6JavaScript/blob/main/images/ejercicio17.png)
 
 ## Ejercicio #18
 Escribir un programa.....
@@ -271,6 +293,7 @@ else{
 }
 
 ```
+![I18](https://github.com/jcserna/Tarea6JavaScript/blob/main/images/ejercicio18.png)
 
 ## Ejercicio #19
 Escribir un programa.....
@@ -310,6 +333,7 @@ switch (letra) {
 }
 
 ```
+![I19](https://github.com/jcserna/Tarea6JavaScript/blob/main/images/ejercicio19.png)
 
 ## Ejercicio #20
 Escribir un programa.....
@@ -329,3 +353,4 @@ if(num3<temp){
     alert(temp);
 
 ```
+![I20](https://github.com/jcserna/Tarea6JavaScript/blob/main/images/ejercicio20.png)
